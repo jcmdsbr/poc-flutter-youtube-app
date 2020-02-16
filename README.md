@@ -1,5 +1,5 @@
 # Youtube Clone app
--> Clone da home do app do youtube feito em flutter
+-> Clone da home do app do youtube feito em flutter.
 
 ## Funcionalidades pendêntes:
 
@@ -7,4 +7,4 @@
 
 -> Utilizando componente de pesquisa (SearchDelegate).
 
--> Recuperando textos para pesquisa & Sugestões
+-> Recuperando textos para pesquisa & Sugestões.
