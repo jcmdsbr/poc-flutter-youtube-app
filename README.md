@@ -18,7 +18,6 @@ Flutter is an open source user interface development kit (UI toolkit), created b
 ### Pending features 📑
 
 - Play videos ✖️
-
 - Search bar. ✖️
 
 [Redirect to Flutter Official Documentation](https://flutter.dev/docs)
