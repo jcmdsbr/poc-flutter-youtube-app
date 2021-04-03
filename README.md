@@ -1,10 +1,24 @@
-# Youtube Clone app
--> Clone da home do app do youtube feito em flutter.
+# Learning Flutter: Creating a Youtube LandingPage Clone :sunglasses:
 
-## Funcionalidades pendêntes:
+- Learning basic concepts flutter and dart
 
--> Reprodução de vídeos.
+## Give a Star! :star:
 
--> Utilizando componente de pesquisa (SearchDelegate).
+If you liked the project, please give a star ;)
 
--> Recuperando textos para pesquisa & Sugestões.
+## You need some of the fallowing tools :exclamation:
+
+-  Visual Studio Code
+-  Flutter
+
+## Description 📚
+
+Flutter is an open source user interface development kit (UI toolkit), created by Google, which makes it possible to create natively compiled applications.
+
+### Pending features 📑
+
+- Play videos ✖️
+
+- Search bar. ✖️
+
+[Redirect to Flutter Official Documentation](https://flutter.dev/docs)
